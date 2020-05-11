@@ -34,9 +34,7 @@
         minZoom: 2
     }).setView([48.864265, 2.321773], 12);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: attribution: 'Map data &copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
     // Add my own basemap generated through Mapbox
     L.tileLayer('tiles/{z}/map_{x}_{y}.png', {
