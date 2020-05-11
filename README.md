@@ -13,8 +13,8 @@ I decided to use **"Basic"** map as the foundation for my own basemap because it
 Base color was changed from light brown to darker, yellowish brown to differentiate the land use more clearly.
 
 Some colors of interest labels have transformed as well.
-`Hospitals) red -> light green`
-`Schools) brown -> dark green`
+`Hospitals) red -> light green` <br>
+`Schools) brown -> dark green` <br>
 `Points of interest) greyish brown -> dark red`
 ### :memo: Map
 ![](img/map-image.JPG)
